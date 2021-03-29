@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\demoGLEngine",
+    "\\demoGLEngine\\resources",
+    "\\demoGLEngine\\resources\\textures",
+    "\\demoGLEngine\\src",
+    "\\glengine",
+    "\\glengine\\include",
+    "\\glengine\\include\\glengine",
+    "\\glengine\\src",
+    "\\stbimage\\src"
+  ],
+  "SelectedNode": "\\demoGLEngine\\src\\myapp.cpp",
+  "PreviewInSolutionExplorer": false
+}
